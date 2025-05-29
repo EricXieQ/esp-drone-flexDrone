@@ -30,7 +30,7 @@
 #include "config.h"
 #include "stabilizer_types.h"
 
-#define DEFAULT_YAW_MODE  XMODE
+#define DEFAULT_YAW_MODE  PLUSMODE
 
 #define COMMANDER_WDT_TIMEOUT_STABILIZE  M2T(500)
 #define COMMANDER_WDT_TIMEOUT_SHUTDOWN   M2T(2000)

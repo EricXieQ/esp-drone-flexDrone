@@ -44,7 +44,7 @@
 #include "sdkconfig.h"
 
 #define PROTOCOL_VERSION 4
-#define QUAD_FORMATION_X
+// #define QUAD_FORMATION_X
 
 #ifdef CONFIG_TARGET_ESPLANE_V2_S2
 #ifndef CONFIG_IDF_TARGET_ESP32S2
